@@ -1,0 +1,20 @@
+{
+  "All Products": "All Products",
+  "Log In": "Log In",
+  "NEED HELP?": "NEED HELP?",
+  "Localization Page": "Localization Page",
+  "STC HEALTH": "STC HEALTH",
+  "UserName": "UserName",
+  "Password": "Password",
+  "Product Name": "Product Name",
+  "Reviews": "Reviews",
+  "Order Now": "Order Now",
+  "Details": "Details",
+  "Description": "Description",
+  "Continue": "Continue",
+  "Please provide password": "Please provide password",
+  "Must be greater than 6": "Must be greater than 6",
+  "Please provide userName": "Please provide userName",
+  "Must be greater than 4": "Must be greater than 4",
+  "LocalizedTest": "Welcome to our app! We are dedicated to providing you with the best products and services. Our team works tirelessly to ensure your satisfaction. Explore our wide range of products, read customer reviews, and place your order with confidence. If you have any questions or need assistance, please don't hesitate to contact our customer support team. Thank you for choosing our app, and we look forward to serving you.In typography and text layout, LTR (Left-to-Right) and RTL (Right-to-Left) are terms used to describe the direction of text flow within a written or printed language. In LTR scripts, such as English, text flows from left to right, with the leftmost character being the starting point. In RTL scripts, such as Arabic or Hebrew, text flows from right to left, with the rightmost character as the starting point. The choice of LTR or RTL depends on the script used and the reading direction of the language."
+}
